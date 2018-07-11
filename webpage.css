@@ -19,7 +19,7 @@ body {
 #Column1, #Column2 {
     float: left;
     height: 190vh;
-    background-color: #a8bef7;
+    background-color: White;
     border-style: solid;
     border-color: Black;
 }
