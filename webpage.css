@@ -5,6 +5,10 @@ h1 {
     text-align: center;
 }
 
+body {
+    background-color: #F1B580;
+}
+
 #Column1, #Column2 {
     float: left;
     height: 190vh;
