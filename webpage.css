@@ -21,6 +21,7 @@ body {
     height: 190vh;
     background-color: White;
     border-style: solid;
+    border-color: Black;
 }
 
 #Column1 {
