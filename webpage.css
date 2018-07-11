@@ -20,6 +20,7 @@ body {
     float: left;
     height: 190vh;
     background-color: White;
+    border-style: solid;
 }
 
 #Column1 {
