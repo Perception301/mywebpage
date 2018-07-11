@@ -5,8 +5,20 @@ h1 {
     text-align: center;
 }
 
-body {
-  background-color: #E5E8E8;
+#Column1, #Column2 {
+    float: left;
+    height: 190vh;
+    background-color: #E5E8E8;
+}
+
+#Column1 {
+    width: 20%;
+    margin-right: 10px;
+    padding-left: 10px;
+}
+
+#Column2 {
+    width: 78%;
 }
 
 #NF1 {
